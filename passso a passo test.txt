@@ -1,0 +1,2 @@
+File > new > Project > Next > 
+Create project from template > Next > mudar o name e criar um novo diretorio no diretorio atual
